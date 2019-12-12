@@ -3,7 +3,6 @@ import React from "react";
 const about = () => {
     return (
         <div>
-            <h1>CANTUS MIRABILIS</h1>
             <h3>Jesteśmy zespołem wokalnym działającym przy katedrze Legnickiej</h3>
             <a
                 className="App-link"
@@ -12,6 +11,7 @@ const about = () => {
                 rel="noopener noreferrer"
             > Posłuchaj nas na YT
             </a>
+            <p> </p>
             <a
                 className="App-link"
                 href="https://www.facebook.com/cantusMirabilisLegnica/"
@@ -19,6 +19,7 @@ const about = () => {
                 rel="noopener noreferrer"
             > Facebook
             </a>
+            <p>Spotykamy się we wtorki i czwartki o godz. 19.20 oraz w soboty o 19.30</p>
         </div>
     )
 };

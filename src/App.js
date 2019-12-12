@@ -7,9 +7,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <About/>
+        <h1>CANTUS MIRABILIS</h1>
       </header>
+      <About/>
     </div>
   );
 }
