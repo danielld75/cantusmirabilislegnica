@@ -3,7 +3,7 @@ import React from "react";
 const about = () => {
     return (
         <div>
-            <h3>Jesteśmy zespołem wokalnym działającym przy katedrze Legnickiej</h3>
+            <h3>Jesteśmy zespołem wokalnym działającym przy Katedrze Legnickiej</h3>
             <a
                 className="App-link"
                 href="https://www.youtube.com/channel/UCew5gF2HiBoV8-okJI9H6dw/featured"
