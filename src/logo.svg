@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 842 596" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g>
-        <g transform="matrix(4.71622,-1.61669,1.46206,4.26513,-831.952,-526.034)">
-            <text x="131.458px" y="257.333px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:72px;fill:rgb(129,134,236);">C</text>
+    <g transform="matrix(1.09046,0,0,1.09046,-34.4569,-23.8173)">
+        <g transform="matrix(4.71622,-1.61669,1.46206,4.26513,164.269,358.998)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:72px;fill:rgb(129,134,236);">C</text>
         </g>
-        <g transform="matrix(2.16371,-0.622519,0.622519,2.16371,-563.824,-44.5389)">
-            <text x="367.514px" y="358.399px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:144px;fill:rgb(132,137,212);">M</text>
+        <g transform="matrix(2.16371,-0.622519,0.622519,2.16371,454.48,502.148)">
+            <text x="0px" y="0px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:144px;fill:rgb(132,137,212);">M</text>
         </g>
-        <g transform="matrix(3.37574,0,0,3.05286,-1220.89,-173.931)">
-            <text x="512.525px" y="106.254px" style="font-family:'EngraverTextH', 'Engraver Text H';font-size:18px;fill:rgb(129,134,236);">e</text>
+        <g transform="matrix(4.45994,0,0,4.03336,491.521,171.556)">
+            <text x="0px" y="0px" style="font-family:'EngraverTextH', 'Engraver Text H';font-size:18px;fill:rgb(129,134,236);">e</text>
         </g>
     </g>
 </svg>
