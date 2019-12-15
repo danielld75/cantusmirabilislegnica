@@ -19,7 +19,7 @@ const about = () => {
                 rel="noopener noreferrer"
             > Facebook
             </a>
-            <p>Spotykamy się we wtorki i czwartki o godz. 19.20 oraz w soboty o 19.30</p>
+            <p>Spotykamy się we wtorki i czwartki o godz. 19<sup>20</sup> oraz w soboty o 19<sup>30</sup></p>
         </div>
     )
 };
