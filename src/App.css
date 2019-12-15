@@ -42,7 +42,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.App-about iframe {
+  width: 50vw;
+  height: 30vh;
+}
 .App-link {
   color: #61dafb;
 }
