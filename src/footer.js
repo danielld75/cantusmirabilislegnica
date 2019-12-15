@@ -2,7 +2,9 @@ import React from "react";
 
 const footer = () => {
     return (
-        <p className={"App-footer"}>Cantus Mirabilis Legnica 2019</p>
+        <div className={"App-footer"}>
+            <p>Cantus Mirabilis Legnica 2019</p>
+        </div>
     )
 };
 

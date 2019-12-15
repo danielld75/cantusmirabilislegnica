@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import About from './about';
 import Footer from './footer';
+import Events from "./events";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <h3>&#8595;</h3>
       </header>
       <About/>
+      <Events/>
       <Footer/>
     </div>
   );

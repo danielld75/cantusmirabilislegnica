@@ -2,7 +2,7 @@ import React from "react";
 
 const about = () => {
     return (
-        <div>
+        <div className={'App-about'}>
             <h3>Jesteśmy zespołem wokalnym działającym przy Katedrze Legnickiej</h3>
             <a
                 className="App-link"
